@@ -1,1 +1,0 @@
-This project is make only with the intention of test this service (https://code.google.com).
