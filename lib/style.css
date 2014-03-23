@@ -8,11 +8,15 @@
 	width: 100%;
 	height: 100%;
 }
-.text{
-	color: #474747;
-	font-size: 3.4em;
-	font-family: sans-serif;
-	display: table-cell;
-	vertical-align: middle;
-	text-shadow: 0 0 2px #1a1a1a;
-}
+	.text{
+		color: #474747;
+		font-size: 3.4em;
+		font-family: sans-serif;
+		display: table-cell;
+		vertical-align: middle;
+		text-shadow: 0 0 2px #1a1a1a;
+	}
+	.text1{
+		color: #123654;
+		font-size: 0.5em;
+	}
